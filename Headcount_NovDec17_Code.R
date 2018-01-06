@@ -1,5 +1,5 @@
-Ariel Deardorff, UCSF Library
-January 5, 2017
+#Ariel Deardorff, UCSF Library
+#January 5, 2017
 
 #The goal of this code is to tranform raw SUMA data into a format that is more easily readable in Tableau.
 
